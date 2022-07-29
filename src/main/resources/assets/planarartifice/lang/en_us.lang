@@ -14,6 +14,7 @@ item.alchemical_scribing_tools.name=Alchemical Scribing Tools
 item.bismuth_ingot.name=Bismuth Ingot
 item.bismuth_nugget.name=Bismuth Nugget
 item.bismuth_plate.name=Bismuth Plate
+tile.molten_bismuth.name=Molten Bismuth
 item.bismuth_claymore.name=Bismuth Claymore
 item.aura_meter.name=Aura Meter
 item.belt_of_suspension.name=Belt Of Suspension
