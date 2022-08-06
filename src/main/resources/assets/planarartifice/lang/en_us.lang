@@ -870,3 +870,5 @@ tooltip.willlastforminutes=Will burn for %s minutes, and %s seconds.
 tc.aspect.tempus=Time
 tc.aspect.spatio=Space, Dimensions
 tc.aspect.tinctura=Colors, Art, Creativity, Expressiveness
+
+key.planarartifice.openThaumonomicon=Open Thaumonomicon's Planar Artifice Tab
